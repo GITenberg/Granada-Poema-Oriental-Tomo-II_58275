@@ -1,5 +1,8 @@
 _repo: Granada-Poema-Oriental-Tomo-II_58275
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58275-h/images/cover.jpg
 creator:
   author:
     agent_name: Zorrilla, José
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1737
     wikipedia: http://en.wikipedia.org/wiki/José_Zorrilla_y_Moral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58275#Granada-Poema-Oriental-Tomo-II
 gutenberg_issued: '2018-11-11'
 gutenberg_type: Text
 identifiers:
